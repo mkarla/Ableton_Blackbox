@@ -45,5 +45,5 @@ Note that samples have to be `.wav` files.
 
 
 ## Contact
-If you have any questions or feature requests, please contact me (pro424) on the 1010music forum or write in the thread:
+If you have any questions or feature requests, please contact me (pro424) on the 1010music forum or write in the [thread](https://forum.1010music.com/forum/products/blackbox/support-blackbox/43727-python-script-converting-an-ableton-live-project-to-blackbox-xml)
 Be warned though that I have limited time and programming experience and do not take any responisbility for support. 
