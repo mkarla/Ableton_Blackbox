@@ -1,0 +1,5 @@
+#Ignore these directories:
+intermediate/
+data/
+
+.DS_Store
